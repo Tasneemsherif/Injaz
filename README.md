@@ -69,6 +69,15 @@ To start the development server and run the app locally, use the following comma
      npm start
      
 ### Access the app in your web browser at https://injaz.onrender.com
+### Testing the application 
+https://github.com/Tasneemsherif/Injaz/assets/74153833/4b574f7f-eec1-471a-8ceb-99d507f376ad
+
+### How the application affects the database
+
+
+https://github.com/Tasneemsherif/Injaz/assets/74153833/629b07b2-6fb9-4c9a-a826-3ed36e4a386f
+
+
 
 ### Contributing 🤝
 We welcome contributions from the community. Please check out our contribution guidelines to get started. Together, we can make this app even better!
@@ -77,4 +86,4 @@ We welcome contributions from the community. Please check out our contribution g
 This project is licensed under the License Name. Feel free to use, modify, and distribute it according to the terms of the license.
 
 
-## Enjoy using our To-Do List App!
+## Enjoy using Injaz!
