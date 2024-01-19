@@ -82,8 +82,7 @@ https://github.com/Tasneemsherif/Injaz/assets/74153833/629b07b2-6fb9-4c9a-a826-3
 ### Contributing 🤝
 We welcome contributions from the community. Please check out our contribution guidelines to get started. Together, we can make this app even better!
 
-### License 📜
-This project is licensed under the License Name. Feel free to use, modify, and distribute it according to the terms of the license.
+
 
 
 ## Enjoy using Injaz!
